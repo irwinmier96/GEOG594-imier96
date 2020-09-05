@@ -20,3 +20,10 @@ Brief Description:
 - Linear Regression Plotting, regplot(), and lmplot()
 
 - It's own built-in styling themes (whitegrid, darkgrid, ticks)
+
+
+
+
+
+Tip: https://stackoverflow.com/questions/18328800/github-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-h
+Refer to this if git pull doesnt work again, refer to the comment with 107 upvotes, or around that number if it gets more upvotes
