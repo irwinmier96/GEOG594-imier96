@@ -4,7 +4,7 @@ Company Name: Python
 
 Web Link: https://seaborn.pydata.org/introduction.html
 
-                 https://analyticsindiamag.com/comparing-python-data-visualization-tools-matplotlib-vs-seaborn/#:~:text=Matplotlib%3A%20Matplotlib%20is%20mainly%20deployed,has%20easily%20interesting%20default%20themes.
+         https://analyticsindiamag.com/comparing-python-data-visualization-tools-matplotlib-vs-seaborn/#:~:text=Matplotlib%3A%20Matplotlib%20is%20mainly%20deployed,has%20easily%20interesting%20default%20themes.
 
 Key Technology: Python, Jupyter Notebook
 
